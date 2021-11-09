@@ -3,6 +3,13 @@ Contains USB, BLE, and WiFi Event Source protocols to connect to the HEGduino de
 They all use the same calls, just specify which mode you want.
 
 ```
+npm i hegduinojs
+```
+
+
+```
+import {hegduino} from 'hegduinojs
+
 let heg = new hegduino('usb',ondata(newline)=>{},onconnect()=>{},ondisconnect=>{},hostURL);
 
 // Fill out the ondata, onconnect, and ondisconnect functions to handle device events.
