@@ -8,7 +8,7 @@ npm i hegduinojs
 
 
 ```
-import {hegduino} from 'hegduinojs
+import {hegduino} from 'hegduinojs'
 
 let heg = new hegduino('usb',ondata(newline)=>{},onconnect()=>{},ondisconnect=>{},hostURL);
 
