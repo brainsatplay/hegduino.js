@@ -1,0 +1,26 @@
+{
+  "name": "hegduinojs",
+  "version": "1.0.0",
+  "description": "hegduino browser communication suite",
+  "main": "hegduino.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainsatplay/hegduinojs.git"
+  },
+  "keywords": [
+    "hegduino",
+    "heg",
+    "device",
+    "real",
+    "time"
+  ],
+  "author": "Joshua Brewster",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/brainsatplay/hegduinojs/issues"
+  },
+  "homepage": "https://github.com/brainsatplay/hegduinojs#readme"
+}
