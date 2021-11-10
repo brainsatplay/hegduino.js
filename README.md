@@ -29,7 +29,7 @@ It's fairly barebones, just barely evolved beyond some tutorials I followed, but
 
 
 By: Joshua Brewster
-License: MIT
+License: AGPL v3.0
 
 
 Contributors:
