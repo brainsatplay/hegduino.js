@@ -6,7 +6,7 @@ They all use the same calls, just specify which mode you want.
 npm i hegduinojs
 ```
 
-Here is the data streaming format, it's only text so it's easy to decode, though not as efficient as a raw byte stream. Sample rate is about 32sps on the default sampling settings. 
+Here is the data streaming format, it's only text so it's easy to decode, though not as efficient as a raw byte stream. Sample rate is about 32sps on v2 or 19sps on v1 on the default sampling settings. 
 
 `microseconds | Red LED reading | IR LED Reading | Red/IR Ratio | Ambient reading | Temperature`
 
